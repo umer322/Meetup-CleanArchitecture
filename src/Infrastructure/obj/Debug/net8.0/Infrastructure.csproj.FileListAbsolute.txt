@@ -1,0 +1,11 @@
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

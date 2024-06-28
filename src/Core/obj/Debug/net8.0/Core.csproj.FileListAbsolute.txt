@@ -1,0 +1,11 @@
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/bin/Debug/net8.0/Core.deps.json
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/bin/Debug/net8.0/Core.dll
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/bin/Debug/net8.0/Core.pdb
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/obj/Debug/net8.0/Core.dll
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/obj/Debug/net8.0/refint/Core.dll
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/obj/Debug/net8.0/Core.pdb
+/Users/umer/Desktop/dotnet-core/MeetUp-CleanArchitecture/src/Core/obj/Debug/net8.0/ref/Core.dll
